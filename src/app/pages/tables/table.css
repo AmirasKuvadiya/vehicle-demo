@@ -1,0 +1,15 @@
+.float-right{
+    float: right;
+}
+.mb-2{
+    margin-bottom: 20px;
+}
+button.marginAuto{
+    margin-top: 13px;
+    margin-left: 20px;
+}
+@media(min-width:320px) and (max-width:768px){
+    .displayFlex{
+        display: flex;
+    }
+}
