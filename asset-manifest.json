@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AmirasKuvadiya/vehicle-demo/static/css/main.f31aed43.chunk.css",
+    "main.js": "/AmirasKuvadiya/vehicle-demo/static/js/main.11b5c7cb.chunk.js",
+    "main.js.map": "/AmirasKuvadiya/vehicle-demo/static/js/main.11b5c7cb.chunk.js.map",
+    "runtime-main.js": "/AmirasKuvadiya/vehicle-demo/static/js/runtime-main.5688518f.js",
+    "runtime-main.js.map": "/AmirasKuvadiya/vehicle-demo/static/js/runtime-main.5688518f.js.map",
+    "static/js/2.0804141f.chunk.js": "/AmirasKuvadiya/vehicle-demo/static/js/2.0804141f.chunk.js",
+    "static/js/2.0804141f.chunk.js.map": "/AmirasKuvadiya/vehicle-demo/static/js/2.0804141f.chunk.js.map",
+    "static/js/3.bbc87d65.chunk.js": "/AmirasKuvadiya/vehicle-demo/static/js/3.bbc87d65.chunk.js",
+    "static/js/3.bbc87d65.chunk.js.map": "/AmirasKuvadiya/vehicle-demo/static/js/3.bbc87d65.chunk.js.map",
+    "index.html": "/AmirasKuvadiya/vehicle-demo/index.html",
+    "static/css/main.f31aed43.chunk.css.map": "/AmirasKuvadiya/vehicle-demo/static/css/main.f31aed43.chunk.css.map",
+    "static/js/2.0804141f.chunk.js.LICENSE.txt": "/AmirasKuvadiya/vehicle-demo/static/js/2.0804141f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5688518f.js",
+    "static/js/2.0804141f.chunk.js",
+    "static/css/main.f31aed43.chunk.css",
+    "static/js/main.11b5c7cb.chunk.js"
+  ]
+}
